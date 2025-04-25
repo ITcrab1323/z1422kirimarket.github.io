@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(90deg, #520505 0%, #090433 100%);
+}
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(145, 139, 139);
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+
+.navbar-toggler {
+background-color: rgb(145, 139, 139);
+}
+
+.sidebar {
+    color: aquamarine;
+    background: linear-gradient(270deg, #520505 0%, #090433 100%);
+}
+
+.card {
+    background: linear-gradient(270deg, #520505 0%, #090433 100%);
+    color: aquamarine;
+}
+
+.card a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.slide-text{
+    color: aquamarine;
+    font-size: x-large;
+}
+
+.footer-text {
+    color: aquamarine;
+    font-size: x-large;
+}
+
+footer {
+    background: linear-gradient(270deg, #520505 0%, #090433 100%);
+}
+
+.media-links {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about {
+    color: aquamarine;
+}
